@@ -1,0 +1,7 @@
+RENCANA KONTEN WPU
+
+- Javascript
+- Python
+- PHP Framework
+- Interview
+- Vlog
